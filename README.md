@@ -1,3 +1,5 @@
+<img src="./images/banner.png" width="100%"/>
+
 # Hi, I'm Abdul Jabbar Peer
 
 **Ed-Tech Professional | Engineer | Problem Solver | Dedicated Husband & Father**
@@ -22,10 +24,12 @@ Empathy and clear communication enable me to simplify complex topics for diverse
 - Integrated AI technologies into the curriculum and internal products, keeping pace with technological advancements.
 
 **Exceptional Performer Of The Year : 2023-2024**
+
 <br/><hr/>
 <img src="./images/perform.jpeg" height="400px" />
 
 **Runner Up Masai Reinvent Hackathon : Oct 2023**
+
 <br/><hr/>
 <img src="./images/hackathon.jpg" height="400px" />
 
@@ -49,7 +53,7 @@ Completed an intensive Full Stack Web Development program. Gained proficiency in
 **Jul 2011 - Apr 2015**
 
 Aeronautical Engineering is the branch of engineering that deals with the design, development, testing, and production of aircraft and related systems.
-<br/><br/>
+`<br/><br/>`
 PVP Siddhartha Institute of Technology, established in 1998, in Vijayawada, Andhra Pradesh, is approved by AICTE and permanently affiliated to JNTU, Kakinada.
 
 ## 🤝 Let's Connect
