@@ -53,7 +53,8 @@ Completed an intensive Full Stack Web Development program. Gained proficiency in
 **Jul 2011 - Apr 2015**
 
 Aeronautical Engineering is the branch of engineering that deals with the design, development, testing, and production of aircraft and related systems.
-`<br/><br/>`
+<br/>
+<br/>
 PVP Siddhartha Institute of Technology, established in 1998, in Vijayawada, Andhra Pradesh, is approved by AICTE and permanently affiliated to JNTU, Kakinada.
 
 ## 🤝 Let's Connect
