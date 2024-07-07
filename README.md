@@ -2,7 +2,7 @@
 
 # Hi, I'm Abdul Jabbar Peer
 
-**Ed-Tech Professional | Engineer | Problem Solver | Dedicated Husband & Father**
+**Ed-Tech Professional | Engineer | Software Developer | Problem Solver**
 
 ## 👨‍🏫 About Me
 
