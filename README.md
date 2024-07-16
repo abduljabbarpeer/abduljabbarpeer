@@ -2,7 +2,7 @@
 
 # Hi, I'm Abdul Jabbar Peer
 
-**Ed-Tech Professional | Engineer | Software Developer | Problem Solver**
+**Ed-Tech Professional | Lead Curriculum Engineer | Software Developer | Problem Solver**
 
 ## 👨‍🏫 About Me
 
