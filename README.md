@@ -6,7 +6,7 @@
 
 ## 👨‍🏫 About Me
 
-I’m Abdul — and while you won’t find me much on social media, here’s a bit about me. At Masai, I’m deeply involved in designing and developing web development curricula, ensuring we use the best pedagogical approaches. Part of my role also touches on various business aspects. When I'm not working, you'll find me experimenting with new products to simplify life for myself, my team, and my students, with a strong focus on frontend development.
+I’m Abdul — and while you won’t find me much on social media, here’s a bit about me. At Masai, I’m involved in designing and developing web development curricula, ensuring we use the best pedagogical approaches. Part of my role also touches on various business aspects. When I'm not working, you'll find me experimenting with new products to simplify life for myself, my team, and my students, with a strong focus on frontend development.
 
 Outside of work, I love spending time with my 6-month-old child. I'm passionate about theology and history and can spend hours discussing these topics. I also have a love for stories, food, and travel, and I’m eager to explore more of these interests in the future.
 
